@@ -1,0 +1,10 @@
+.env
+node_modules/
+dist/
+src/.data/
+*.sqlite
+node_modules/
+dist/
+.env
+src/.data/
+src/public/

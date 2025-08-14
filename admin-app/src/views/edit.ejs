@@ -1,0 +1,16 @@
+<%- include('partials/layout', { title: `Editing ${owner}/${repo} - ${path}`, body: `
+  <div class="card">
+    <h2 style="margin-top:0">${owner}/${repo} — ${path}</h2>
+    <form action="/site/${owner}/${repo}/edit" method="POST">
+      <input type="hidden" name="_csrf" value="${csrfToken}"> 
+      <input type="hidden" name="path" value="${path}"> 
+      <label class="muted">Commit message</label>
+      <input type="text" name="message" value="Edit ${path}"> 
+      <label class="muted" style="margin-top:8px">Base branch</label>
+      <input type="text" name="baseBranch" value="main"> 
+      <label class="muted" style="margin-top:8px">Content</label>
+      <textarea name="content">${content.replace(/</g, '&lt;')}</textarea>
+      <div style="margin-top:12px"><button class="btn">Save (opens PR)</button></div>
+    </form>
+  </div>
+` }) %>
