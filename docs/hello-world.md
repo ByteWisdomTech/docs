@@ -1,8 +1,10 @@
 ---
 draft: false
+sidebar_label: Hello World
 slug: hello-world
 title: Hello World
 ---
+
 
 
 
