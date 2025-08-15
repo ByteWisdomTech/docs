@@ -1,6 +1,11 @@
 ---
+draft: false
+sidebar_label: congratulations
 sidebar_position: 6
+slug: congratulations
+title: congratulations
 ---
+
 
 # Congratulations!
 
