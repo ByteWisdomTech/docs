@@ -7,7 +7,7 @@ title: deploy-your-site
 ---
 
 
-# Deploy your site
+# Deploy your site with me
 
 Docusaurus is a **static-site-generator** (also called **[Jamstack](https://jamstack.org/)**).
 
