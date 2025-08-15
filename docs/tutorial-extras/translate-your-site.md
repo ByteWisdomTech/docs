@@ -1,6 +1,11 @@
 ---
+draft: false
+sidebar_label: translate-your-site
 sidebar_position: 2
+slug: translate-your-site
+title: translate-your-site
 ---
+
 
 # Translate your site
 
