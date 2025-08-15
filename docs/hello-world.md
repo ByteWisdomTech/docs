@@ -1,0 +1,8 @@
+---
+slug: hello-world
+title: Hello World
+---
+
+# New Document
+
+Write your content here...
