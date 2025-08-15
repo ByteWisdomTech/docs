@@ -1,6 +1,11 @@
 ---
+draft: false
+sidebar_label: manage-docs-versions
 sidebar_position: 1
+slug: manage-docs-versions
+title: manage-docs-versions
 ---
+
 
 # Manage Docs Versions
 
