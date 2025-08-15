@@ -1,6 +1,11 @@
 ---
+draft: false
+sidebar_label: create-a-document
 sidebar_position: 2
+slug: create-a-document
+title: create-a-document
 ---
+
 
 # Create a Document
 
