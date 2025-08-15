@@ -1,9 +1,11 @@
 ---
 draft: false
+sidebar_label: intro
 sidebar_position: 1
 slug: intro
 title: intro
 ---
+
 
 
 
