@@ -1,6 +1,10 @@
 ---
+draft: false
 sidebar_position: 1
+slug: intro
+title: intro
 ---
+
 
 # Tutorial Intro
 
