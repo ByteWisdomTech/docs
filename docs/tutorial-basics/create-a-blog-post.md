@@ -1,6 +1,11 @@
 ---
+draft: false
+sidebar_label: create-a-blog-post
 sidebar_position: 3
+slug: create-a-blog-post
+title: create-a-blog-post
 ---
+
 
 # Create a Blog Post
 
