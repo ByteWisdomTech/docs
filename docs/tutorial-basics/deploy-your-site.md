@@ -1,6 +1,11 @@
 ---
+draft: false
+sidebar_label: deploy-your-site
 sidebar_position: 5
+slug: deploy-your-site
+title: deploy-your-site
 ---
+
 
 # Deploy your site
 
