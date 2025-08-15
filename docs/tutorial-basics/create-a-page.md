@@ -1,6 +1,11 @@
 ---
+draft: false
+sidebar_label: create-a-page
 sidebar_position: 1
+slug: create-a-page
+title: create-a-page
 ---
+
 
 # Create a Page
 
